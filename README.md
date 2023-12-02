@@ -38,7 +38,8 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   <ul>
   <li><details>
       <summary>7RO</summary>
-  
+
+  [Regresión Lineal](7RO/UT1/T1/7R0_Regresión_Lineal.ipynb)<br>
   [Generación de Laberinto y Algoritmos BFS y DFS](7RO/UT1/T2/7RO_Maze.ipynb)<br>
   
   </details></li>
