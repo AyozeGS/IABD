@@ -4,10 +4,10 @@ Recopilación de algunas actividades del Máster de IA y Big Data
 <details>
   <summary>Laberinto</summary>
     
-  [Generación de Laberinto y Algoritmos BFS y DFS](7RO/UT1/T1)<br>
-  ![Alt text](7RO/UT1/T1/screenshots/1.png?raw=true "Laberintos")
-  ![Alt text](7RO/UT1/T1/screenshots/2.png?raw=true "BFS")
-  ![Alt text](7RO/UT1/T1/screenshots/4.png?raw=true "DFS")
+  [Generación de Laberinto y Algoritmos BFS y DFS](7RO/UT1/T2)<br>
+  ![Alt text](7RO/UT1/T2/screenshots/1.png?raw=true "Laberintos")
+  ![Alt text](7RO/UT1/T2/screenshots/2.png?raw=true "BFS")
+  ![Alt text](7RO/UT1/T2/screenshots/4.png?raw=true "DFS")
 </details>
 
 <details>
@@ -39,7 +39,7 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   <li><details>
       <summary>7RO</summary>
   
-  [Generación de Laberinto y Algoritmos BFS y DFS](7RO/UT1/T1/7RO_Maze.ipynb)<br>
+  [Generación de Laberinto y Algoritmos BFS y DFS](7RO/UT1/T2/7RO_Maze.ipynb)<br>
   
   </details></li>
   </ul>
