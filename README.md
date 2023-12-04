@@ -30,6 +30,7 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Gestión de ficheros en Google Colab](SNS/UT1/T1_colab/Ayoze_Gil_Sosa_Act_1_1.ipynb)<br>
   [Análisis de Observaciones Influyentes](SNS/UT2/T1/Ayoze_Gil_Sosa_Ejemplo_2_4_Observaciones_influyentes.ipynb)<br>
   [Escalamiento de Datos](SNS/UT2/T1/Ayoze_Gil_Sosa_Ejemplo_2_5_Escalamiento_de_datos.ipynb)<br>
+  [Métricas de Error](SNS/UT3/T1/Ayoze_Gil_Sosa_Act_3_1_Metricas_de_error.ipynb)<br>
   
   </details></li>
   </ul>
