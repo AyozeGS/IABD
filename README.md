@@ -4,18 +4,18 @@ Recopilación de algunas actividades del Máster de IA y Big Data
 <details>
   <summary>Laberinto</summary>
     
-  [Generación de Laberinto y Algoritmos BFS y DFS](7RO/UT1/T2)<br>
-  ![Alt text](7RO/UT1/T2/screenshots/1.png?raw=true "Laberintos")
-  ![Alt text](7RO/UT1/T2/screenshots/2.png?raw=true "BFS")
-  ![Alt text](7RO/UT1/T2/screenshots/4.png?raw=true "DFS")
+  [Generación de Laberinto y Algoritmos BFS y DFS](7RO/T2)<br>
+  ![Alt text](7RO/T2/screenshots/1.png?raw=true "Laberintos")
+  ![Alt text](7RO/T2/screenshots/2.png?raw=true "BFS")
+  ![Alt text](7RO/T2/screenshots/4.png?raw=true "DFS")
 </details>
 
 <details>
   <summary>Algoritmo Genético</summary>
     
-  [Algoritmo Genético - Problema del Viajante](M2D/UT1/T2)<br>
-  ![Alt text](M2D/UT1/T2/screenshots/1.png?raw=true "Algoritmo Genético - Inicio")
-  ![Alt text](M2D/UT1/T2/screenshots/4.png?raw=true "Algoritmo Genético - Final")
+  [Algoritmo Genético - Problema del Viajante](M2D/T2)<br>
+  ![Alt text](M2D/T2/screenshots/1.png?raw=true "Algoritmo Genético - Inicio")
+  ![Alt text](M2D/T2/screenshots/4.png?raw=true "Algoritmo Genético - Final")
 </details>
 
 <details>
@@ -40,8 +40,8 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   <li><details>
       <summary>7RO</summary>
 
-  [Regresión Lineal](7RO/UT1/T1/7R0_Regresión_Lineal.ipynb)<br>
-  [Generación de Laberinto y Algoritmos BFS y DFS](7RO/UT1/T2/7RO_Maze.ipynb)<br>
+  [Regresión Lineal](7RO/T1/7R0_Regresión_Lineal.ipynb)<br>
+  [Generación de Laberinto y Algoritmos BFS y DFS](7RO/T2/7RO_Maze.ipynb)<br>
   
   </details></li>
   </ul>
@@ -52,7 +52,7 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   <li><details>
       <summary>M2D</summary>
   
-  [Problema del Viajante con Algortimo Genético](M2D/UT1/T2/M2D_AG.ipynb)<br>
+  [Problema del Viajante con Algortimo Genético](M2D/T2/M2D_AG.ipynb)<br>
   
   </details></li>
   </ul>
