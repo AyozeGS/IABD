@@ -52,7 +52,7 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   <li><details>
       <summary>M2D</summary>
   
-  [Problema del Viajante con Algortimo Genético](M2D/T2/M2D_AG.ipynb)<br>
+  [Problema del Viajante con Algoritmo Genético](M2D/T2/M2D_AG.ipynb)<br>
   
   </details></li>
   </ul>
