@@ -31,6 +31,8 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Análisis de Observaciones Influyentes](SNS/UT2/T1/Ayoze_Gil_Sosa_Ejemplo_2_4_Observaciones_influyentes.ipynb)<br>
   [Escalamiento de Datos](SNS/UT2/T1/Ayoze_Gil_Sosa_Ejemplo_2_5_Escalamiento_de_datos.ipynb)<br>
   [Métricas de Error](SNS/UT3/T1/Ayoze_Gil_Sosa_Act_3_1_Metricas_de_error.ipynb)<br>
+  [Comparativa Naive: Iris](SNS/UT3/T2/Ayoze_Gil_Sosa_Act_3_2_Iris_NaiveBayes.ipynb)<br>
+  [Comparativa Naive: Penguins](SNS/UT3/T2/Ayoze_Gil_Sosa_Act_3_2_Penguin_NaiveBayes.ipynb)<br>
   
   </details></li>
   </ul>
