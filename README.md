@@ -46,6 +46,7 @@ Recopilación de algunas actividades del Máster de IA y Big Data
 
   [Regresión Lineal](7RO/T1/7R0_Regresión_Lineal.ipynb)<br>
   [Generación de Laberinto y Algoritmos BFS y DFS](7RO/T2/7RO_Maze.ipynb)<br>
+  [Clasificación Multiclass con SVM](7RO/T4/7RO_SVM.ipynb)<br>
   
   </details></li>
   </ul>
@@ -59,6 +60,9 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Problema del Viajante con Algoritmo Genético](M2D/T2/M2D_AG.ipynb)<br>
   [Planificación con STRIPS: versión extendida](M2D/T3/M2D_STRIPS.ipynb)<br>
   [Planificación con STRIPS: versión simplificada](M2D/T3/M2D_STRIPS_v2.ipynb)<br>
+
+
+  
   
   </details></li>
   </ul>
