@@ -9,7 +9,7 @@ import sklearn
 # Path del modelo preentrenado
 MODEL_PATH = 'models/RandomForestClassifier.pkl'
 SCALER_PATH = 'models/MinMaxScaler.pkl'
-
+target_models = ['lda', 'gbt', 'logr', 'als', 'svm', 'pca', 'nb', 'rf', 'linr', 'svd', 'kpar']
 
 # Se reciben los valores y el modelo, devuelve la predicción
 def model_prediction(x_in, model):
@@ -40,9 +40,9 @@ def main():
     # Lectura de datos
     data_size_mb = st.text_input("Valor de data_size_mb:")
     user = st.text_input("Valor de user:")
-    system = st.text_input("Valor de max_heart_rate_achieved:")
-    softirq = st.text_input("Valor de system:")
-    used = st.text_input("Valor de softirq:")
+    system = st.text_input("Valor de system:")
+    softirq = st.text_input("Valor de softirq:")
+    used = st.text_input("Valor de used:")
     recv_packets = st.text_input("Valor de recv_packets:")
     load10 = st.text_input("Valor de load10:")
     
@@ -59,7 +59,8 @@ def main():
         x_in = pd.DataFrame(x_in, columns=['data_size_mb', 'user', 'system', 'softirq', 'used', 'recv_packets', 'load10'])
         x_in = scaler.transform(x_in)
         predictS = model_prediction(x_in, model)
-        st.success('La predicción de dolencia cardiaca es: {}'.format(predictS[0]).upper())
+        model = target_models[predictS[0]]
+        st.success('El algoritmo ejecutándose es: {}'.format(model.upper()))
 
 if __name__ == '__main__':
     main()
