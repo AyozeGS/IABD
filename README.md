@@ -35,6 +35,7 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Comparativa NaiveBayes: Penguins](SNS/UT3/T2/Ayoze_Gil_Sosa_Act_3_2_Penguin_NaiveBayes.ipynb)<br>
   [Cross Validation](SNS/UT3/T3/)<br>
   [Dataset Algoritmos Machine Learning en Spark](SNS/UT3/T4/)<br>
+  [Dataset Algoritmos Machine Learning en Spark 2](SNS/EP_1_2_3)<br>
 
   
   </details></li>
