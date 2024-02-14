@@ -1,30 +1,9 @@
 # IABD
 Recopilación de algunas actividades del Máster de IA y Big Data
 
-<details>
-  <summary>Laberinto</summary>
-    
-  [Generación de Laberinto y Algoritmos BFS y DFS](7RO/T2)<br>
-  ![Alt text](7RO/T2/screenshots/1.png?raw=true "Laberintos")
-  ![Alt text](7RO/T2/screenshots/2.png?raw=true "BFS")
-  ![Alt text](7RO/T2/screenshots/4.png?raw=true "DFS")
-</details>
-
-<details>
-  <summary>Algoritmo Genético</summary>
-    
-  [Algoritmo Genético - Problema del Viajante](M2D/T2)<br>
-  ![Alt text](M2D/T2/screenshots/1.png?raw=true "Algoritmo Genético - Inicio")
-  ![Alt text](M2D/T2/screenshots/4.png?raw=true "Algoritmo Genético - Final")
-</details>
-
-<details>
-  <summary>Recopilación</summary>
-  
-
   [comment]:(SNS)
-  <ul>
-  <li><details>
+
+  <details>
       <summary>SNS</summary>
   
   [Gestión de ficheros en Google Colab](SNS/UT1/T1_colab/Ayoze_Gil_Sosa_Act_1_1.ipynb)<br>
@@ -36,14 +15,11 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Cross Validation](SNS/UT3/T3/)<br>
   [Dataset Algoritmos Machine Learning en Spark](SNS/UT3/T4/)<br>
   [Dataset Algoritmos Machine Learning en Spark 2](SNS/EP_1_2_3)<br>
-
   
-  </details></li>
-  </ul>
+  </details>
   
   [comment]:(7RO)
-  <ul>
-  <li><details>
+  <details>
       <summary>7RO</summary>
 
   [Regresión Lineal](7RO/T1/7R0_Regresión_Lineal.ipynb)<br>
@@ -51,13 +27,11 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Clasificación Multiclass con SVM](7RO/T4/7RO_SVM.ipynb)<br>
   [Agente 3 en Raya con Q-Learning](7RO/T5/7RO_3_en_raya.ipynb)<br>
   
-  </details></li>
-  </ul>
+  </details>
   
 
   [comment]:(M2D)
-  <ul>
-  <li><details>
+  <details>
       <summary>M2D</summary>
 
   [Diseño de máquinas de Turing con JFLAP](M2D/T1)
@@ -66,9 +40,4 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Planificación con STRIPS: versión extendida](M2D/T3/M2D_STRIPS.ipynb)<br>
   [Planificación con STRIPS: versión simplificada](M2D/T3/M2D_STRIPS_v2.ipynb)<br>
 
-
-  
-  
-  </details></li>
-  </ul>
-</details>
+  </details>
