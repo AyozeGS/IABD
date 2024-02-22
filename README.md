@@ -8,7 +8,7 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   
   [Gestión de ficheros en Google Colab](SNS/UT1/T1_colab)<br>
   [Análisis de Observaciones Influyentes](SNS/UT2/T1)<br>
-  [Escalamiento de Datos](SNS/UT2/T1/Ayoze_Gil_Sosa_Ejemplo_2_5_Escalamiento_de_datos.ipynb)<br>
+  [Escalamiento de Datos](SNS/UT2/T1)<br>
   [Métricas de Error](SNS/UT3/T1/Ayoze_Gil_Sosa_Act_3_1_Metricas_de_error.ipynb)<br>
   [Comparativa NaiveBayes: Iris](SNS/UT3/T2/Ayoze_Gil_Sosa_Act_3_2_Iris_NaiveBayes.ipynb)<br>
   [Comparativa NaiveBayes: Penguins](SNS/UT3/T2/Ayoze_Gil_Sosa_Act_3_2_Penguin_NaiveBayes.ipynb)<br>
