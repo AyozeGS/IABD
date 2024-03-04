@@ -15,6 +15,7 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Cross Validation](SNS/UT3/T3)<br>
   [Dataset Algoritmos Machine Learning en Spark](SNS/UT3/T4)<br>
   [Dataset Algoritmos Machine Learning en Spark 2](SNS/EP_1_2_3)<br>
+  [Comparativa árboles: Wine Quality](SNS/UT3/T5)<br>
   
   </details>
   
