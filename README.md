@@ -28,6 +28,8 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Prueba código R y Python en diferentes IDE](7RO/T3)<br>
   [Clasificación Multiclass con SVM](7RO/T4)<br>
   [Agente 3 en Raya con Q-Learning](7RO/T5)<br>
+  [Clasificación de imágenes de piezas de ajedrez con CNN ](7RO/T5)<br>
+  
   
   </details>
   
