@@ -43,5 +43,6 @@ Recopilación de algunas actividades del Máster de IA y Big Data
   [Problema del Viajante con Algoritmo Genético](M2D/T2)<br>
   [Planificación con STRIPS: versión extendida](M2D/T3/M2D_STRIPS.ipynb)<br>
   [Planificación con STRIPS: versión simplificada](M2D/T3/M2D_STRIPS_v2.ipynb)<br>
+  [Algoritmo de Dijkstra con CLIPS](M2D/T4)<br>
 
   </details>
