@@ -1,5 +1,5 @@
 # IABD
-Recopilación de algunas actividades del Máster de IA y Big Data.
+Recopilación de actividades del Máster de IA y Big Data.
 
   [comment]:(SNS)
 
