@@ -32,6 +32,8 @@ Recopilación de actividades del Máster de IA y Big Data.
   [Clasificación de imágenes de piezas de ajedrez con CNN](7RO/T6)<br>
   [NLP con Word2Vec Embedding](7RO/T7)<br>
   [NLP con RNN](7RO/T8)<br>
+  [Deep Q-Learning: Cartpole](7RO/T9)<br>
+  
   
   
   
