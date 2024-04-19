@@ -17,6 +17,7 @@ Recopilación de actividades del Máster de IA y Big Data.
   [Dataset Algoritmos Machine Learning en Spark 2](SNS/EP_1_2_3)<br>
   [Comparativa árboles: Wine Quality](SNS/UT3/T5)<br>
   [Predicción en Driven Data Competition: DengAI](SNS/UT3/T6)<br>
+  [Clasificación en Driven Data Competition: Earthquake Damage Predictor](SNS/UT3/T7)<br>
   
   </details>
   
