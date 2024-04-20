@@ -18,6 +18,7 @@ Recopilación de actividades del Máster de IA y Big Data.
   [Comparativa árboles: Wine Quality](SNS/UT3/T5)<br>
   [Predicción en Driven Data Competition: DengAI](SNS/UT3/T6)<br>
   [Clasificación en Driven Data Competition: Earthquake Damage Predictor](SNS/UT3/T7)<br>
+  [Clustering: Segmentación de clientes](SNS/UT4/T1)<br>
   
   </details>
   
