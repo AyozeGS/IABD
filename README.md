@@ -36,12 +36,8 @@ Recopilación de actividades del Máster de IA y Big Data.
   [NLP con RNN](7RO/T8)<br>
   [Deep Q-Learning: Cartpole](7RO/T9)<br>
   
-  
-  
-  
   </details>
   
-
   [comment]:(M2D)
   <details>
       <summary>M2D</summary>
