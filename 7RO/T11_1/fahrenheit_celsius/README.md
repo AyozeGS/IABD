@@ -1,11 +1,10 @@
-# Celsius a Fahrenheit
+# Fahrenheit a Celsius
 
-Este código fuente sirve como apoyo para el video de exportación de modelos de Tensorflow a Tensorflow.js, del canal de YouTube [Ringa Tech](https://youtube.com/RingaTech)
+Esta actividad es un conversor en tiempo real de grados Fahrenheit a Celsius utilizando Tensorflow.js, en base aun modelo entrenado en Python con Tensorflow.
 
-Se trata de un conversor en tiempo real de grados Celsius a Fahrenheit utilizando Tensorflow.js, en base aun modelo entrenado en Python con Tensorflow
+Está inspirada en el vídeo sobre exportación de modelos de Tensorflow a Tensorflow.js, del canal de YouTube [Ringa Tech](https://youtube.com/RingaTech)
 
-## Probar en vivo
-Puedes probar este proyecto en vivo [aquí](https://ringa-tech.com/exportacion/celsius-a-fahrenheit/)
+y cuyo proyecto se puede probar en vivo [aquí](https://ringa-tech.com/exportacion/celsius-a-fahrenheit/)
 
 ## Cómo utilizarlo
 
@@ -21,7 +20,4 @@ Para eso puedes usar cualquier servidor, pero aquí hay una forma de hacerlo:
 - Ejecuta el comando `python -m http.server 8000`
 - Abre un explorador y ve a http://localhost:8000
 ### Uso
-Mueve la barra deslizadora de grados celsius, y se mostrará la predicción en grados fahrenheit
-
-## Problemas
-Si tienes un problema, regístralo aquí o déjame un comentario en el video de Youtube. Asegúrate de primero revisar la consola de desarrollador de tu explorador para ver si puedes identificar el problema.
+Mueve la barra deslizadora de grados Fahrenheit, y se mostrará la predicción en grados Celsius
